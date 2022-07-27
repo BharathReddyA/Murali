@@ -1,0 +1,43 @@
+body{
+  background-color: #eeebd9;
+  font-family: 'Montserrat';
+}
+.hero-img{
+  background-image: url(../images/hero.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  min-height: 550px;
+  background-size: cover;
+}
+
+.test{
+  background-color: #252323a8;
+  min-height: 550px;
+}
+
+.description{
+  color: #fff;
+}
+.intro-text{
+  color: #d9cbdd;
+  text-decoration: double underline !important;
+  /* text-align: center; */
+  text-shadow: #000;
+  font-weight: 500;
+}
+
+#aboutMe{
+  min-height: 300px;
+}
+
+.aboutMe-img{
+  max-height: 200px;
+  max-width: 200px;
+  border-radius: 50%;
+}
+
+#footer{
+  min-height: 50px;
+  background-color: #000;
+}

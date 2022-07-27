@@ -1,0 +1,15 @@
+.bg-custom{
+  background-color: #2dc3c8 !important;
+  color: white
+}
+.navbar-custom{
+  background-color: #2dc3c8;
+  color: white
+}
+
+.navbar-brand{
+  color:white;
+}
+.nav-link{
+  color:white;
+}
